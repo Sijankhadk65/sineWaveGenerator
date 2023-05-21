@@ -1,0 +1,450 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/vhdl/VHD/sim
+Ebrg_e
+w1684581218
+Z0 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z1 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z2 dE:/vhdl/SineWaveVHDL/sim
+8E:/vhdl/SineWaveVHDL/src/BRG_E.vhd
+FE:/vhdl/SineWaveVHDL/src/BRG_E.vhd
+l0
+L4
+Vzmg0;4ld6CCH[gE[DKH^k0
+!s100 6o4i^9a@G]78WR=mdK3`B2
+Z3 OV;C;10.5b;63
+32
+Z4 !s110 1684677252
+!i10b 1
+Z5 !s108 1684677252.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/vhdl/SineWaveVHDL/src/BRG_E.vhd|
+!s107 E:/vhdl/SineWaveVHDL/src/BRG_E.vhd|
+!i113 1
+Z6 o-work work -2002 -explicit
+Z7 tExplicit 1 CvgOpt 0
+Abrg_a
+w1684672464
+R0
+R1
+Z8 DEx4 work 5 brg_e 0 22 zmg0;4ld6CCH[gE[DKH^k0
+8E:/vhdl/SineWaveVHDL/src/BRG_A.vhd
+FE:/vhdl/SineWaveVHDL/src/BRG_A.vhd
+l9
+L1
+VCQ>JEc<QoedS3O39cDFKQ2
+!s100 :RfjVNl3DmzQWQF@Y9XXE0
+R3
+32
+R4
+!i10b 1
+R5
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/vhdl/SineWaveVHDL/src/BRG_A.vhd|
+!s107 E:/vhdl/SineWaveVHDL/src/BRG_A.vhd|
+!i113 1
+R6
+R7
+Ebrg_tb_a
+w1684582439
+R0
+R1
+R2
+Z9 8E:/vhdl/SineWaveVHDL/tb/BRG_TB.vhd
+Z10 FE:/vhdl/SineWaveVHDL/tb/BRG_TB.vhd
+l0
+L4
+VYGTEm=MU_m0>S@lTf5LC[3
+!s100 HB54ek[NhJbl826cQG<<L3
+R3
+32
+!s110 1684583065
+!i10b 1
+!s108 1684583065.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/vhdl/SineWaveVHDL/tb/BRG_TB.vhd|
+Z12 !s107 E:/vhdl/SineWaveVHDL/tb/BRG_TB.vhd|
+!i113 1
+R6
+R7
+Ebrg_tb_e
+Z13 w1684584298
+R0
+R1
+R2
+R9
+R10
+l0
+L4
+V=OC<;3N1@NcakZO8W`6J03
+!s100 lIc3a@eH13Y8k:<b:<5Sf0
+R3
+32
+R4
+!i10b 1
+R5
+R11
+R12
+!i113 1
+R6
+R7
+Abrg_tb_a
+R8
+Z14 DEx4 work 5 clk_e 0 22 _Ioj8YD47i[UYM1Yc_1>;3
+R0
+R1
+DEx4 work 8 brg_tb_e 0 22 =OC<;3N1@NcakZO8W`6J03
+l13
+L9
+VDo]WziikD<ln1>AUjNiGD2
+!s100 gh7UO946cZ62?ZBm8cOM]1
+R3
+32
+R4
+!i10b 1
+R5
+R11
+R12
+!i113 1
+R6
+R7
+Eclk_e
+w1684579134
+R0
+R1
+R2
+8E:/vhdl/SineWaveVHDL/src/CLK_E.vhd
+FE:/vhdl/SineWaveVHDL/src/CLK_E.vhd
+l0
+L4
+V_Ioj8YD47i[UYM1Yc_1>;3
+!s100 OZmXkGiC[cF3d`j`B9gek2
+R3
+32
+Z15 !s110 1684677251
+!i10b 1
+Z16 !s108 1684677251.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/vhdl/SineWaveVHDL/src/CLK_E.vhd|
+!s107 E:/vhdl/SineWaveVHDL/src/CLK_E.vhd|
+!i113 1
+R6
+R7
+Aclk_a
+w1684584262
+R0
+R1
+R14
+8E:/vhdl/SineWaveVHDL/src/CLK_A.vhd
+FE:/vhdl/SineWaveVHDL/src/CLK_A.vhd
+l7
+L1
+VHef7ABnX=[m2OP6coMKYI0
+!s100 ^S_UCTTzEzlM85`lA_;2=2
+R3
+32
+R15
+!i10b 1
+R16
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/vhdl/SineWaveVHDL/src/CLK_A.vhd|
+!s107 E:/vhdl/SineWaveVHDL/src/CLK_A.vhd|
+!i113 1
+R6
+R7
+Eclk_tb_e
+Z17 w1684580081
+R0
+R1
+R2
+Z18 8E:/vhdl/SineWaveVHDL/tb/CLK_TB.vhd
+Z19 FE:/vhdl/SineWaveVHDL/tb/CLK_TB.vhd
+l0
+L4
+VaKzPTdiA8@3]3>VW:9Go`3
+!s100 mPNA8d6?WzM;]DnLWK>UR0
+R3
+32
+R15
+!i10b 1
+R16
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/vhdl/SineWaveVHDL/tb/CLK_TB.vhd|
+Z21 !s107 E:/vhdl/SineWaveVHDL/tb/CLK_TB.vhd|
+!i113 1
+R6
+R7
+Aclks_tb_a
+R14
+R0
+R1
+DEx4 work 8 clk_tb_e 0 22 aKzPTdiA8@3]3>VW:9Go`3
+l10
+L8
+VQ4MZiQJPWmk3:R8Y<>HRP0
+!s100 D]0JZK?<R[C<Xk^R8LVhY2
+R3
+32
+R15
+!i10b 1
+R16
+R20
+R21
+!i113 1
+R6
+R7
+Euart_e
+w1684678856
+R0
+R1
+R2
+8E:/vhdl/SineWaveVHDL/src/UART_E.vhd
+FE:/vhdl/SineWaveVHDL/src/UART_E.vhd
+l0
+L4
+VmOCLM4VoE7_5GSO7gP43J2
+!s100 ]Wl`K6VRm3KP?zk57>0HA0
+R3
+32
+!s110 1684678944
+!i10b 1
+!s108 1684678944.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/vhdl/SineWaveVHDL/src/UART_E.vhd|
+!s107 E:/vhdl/SineWaveVHDL/src/UART_E.vhd|
+!i113 1
+R6
+R7
+Auart_a
+w1684678883
+Z22 DEx4 work 9 uart_tx_e 0 22 :lOf32olXb_1VeS]UYoa>1
+Z23 DEx4 work 9 uart_rx_e 0 22 ;hDUURFBSWal^Ai^cUZJ50
+R0
+R1
+Z24 DEx4 work 6 uart_e 0 22 mOCLM4VoE7_5GSO7gP43J2
+8E:/vhdl/SineWaveVHDL/src/UART_A.vhd
+FE:/vhdl/SineWaveVHDL/src/UART_A.vhd
+l11
+L1
+VYY;M1N<]B0B]izF8fF<2f1
+!s100 RU?]?2L9H^d6I@^mPgi<h1
+R3
+32
+!s110 1684678946
+!i10b 1
+!s108 1684678946.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/vhdl/SineWaveVHDL/src/UART_A.vhd|
+!s107 E:/vhdl/SineWaveVHDL/src/UART_A.vhd|
+!i113 1
+R6
+R7
+Euart_rx_e
+w1684611114
+R0
+R1
+R2
+8E:/vhdl/SineWaveVHDL/src/UART_RX_E.vhd
+FE:/vhdl/SineWaveVHDL/src/UART_RX_E.vhd
+l0
+L4
+V;hDUURFBSWal^Ai^cUZJ50
+!s100 N:WbdhYd@Jo1jX7o=MEn>3
+R3
+32
+R4
+!i10b 1
+R5
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/vhdl/SineWaveVHDL/src/UART_RX_E.vhd|
+!s107 E:/vhdl/SineWaveVHDL/src/UART_RX_E.vhd|
+!i113 1
+R6
+R7
+Auart_rx_a
+w1684673793
+R0
+R1
+R23
+8E:/vhdl/SineWaveVHDL/src/UART_RX_A.vhd
+FE:/vhdl/SineWaveVHDL/src/UART_RX_A.vhd
+l14
+L1
+VbS0Jm<E509g14nC0Yhczj1
+!s100 ?5NIc[?IKI0;WJWjFL_Q_0
+R3
+32
+R4
+!i10b 1
+R5
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/vhdl/SineWaveVHDL/src/UART_RX_A.vhd|
+!s107 E:/vhdl/SineWaveVHDL/src/UART_RX_A.vhd|
+!i113 1
+R6
+R7
+Euart_rx_tb_e
+Z25 w1684674155
+R0
+R1
+R2
+Z26 8E:/vhdl/SineWaveVHDL/tb/UART_RX_TB.vhd
+Z27 FE:/vhdl/SineWaveVHDL/tb/UART_RX_TB.vhd
+l0
+L4
+VQSBeDo2`<n@CI5oaGY;QF3
+!s100 P3CfknkMI4lzkF2d>YlK03
+R3
+32
+R4
+!i10b 1
+R5
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/vhdl/SineWaveVHDL/tb/UART_RX_TB.vhd|
+Z29 !s107 E:/vhdl/SineWaveVHDL/tb/UART_RX_TB.vhd|
+!i113 1
+R6
+R7
+Auart_rx_tb_a
+R23
+R8
+R14
+R0
+R1
+DEx4 work 12 uart_rx_tb_e 0 22 QSBeDo2`<n@CI5oaGY;QF3
+l18
+L8
+VIJSX[9CVI?]hQYleU1Q<K3
+!s100 WVdPB5lXWTE9EIBJj9l8G0
+R3
+32
+R4
+!i10b 1
+R5
+R28
+R29
+!i113 1
+R6
+R7
+Euart_tb_e
+Z30 w1684678938
+R0
+R1
+R2
+Z31 8E:/vhdl/SineWaveVHDL/tb/UART_TB.vhd
+Z32 FE:/vhdl/SineWaveVHDL/tb/UART_TB.vhd
+l0
+L4
+V5gD8Co8Km:1B_l9c6@n8Q2
+!s100 Y4R52C45l7C5g1B>_Bne10
+R3
+32
+Z33 !s110 1684678949
+!i10b 1
+Z34 !s108 1684678949.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/vhdl/SineWaveVHDL/tb/UART_TB.vhd|
+Z36 !s107 E:/vhdl/SineWaveVHDL/tb/UART_TB.vhd|
+!i113 1
+R6
+R7
+Auart_tb_a
+R24
+R8
+R14
+R0
+R1
+Z37 DEx4 work 9 uart_tb_e 0 22 5gD8Co8Km:1B_l9c6@n8Q2
+l23
+L8
+V4@NICOR<?nd<Q6]]M@k8d0
+!s100 ?6@RTC^:H3oX8cYn6D]@g0
+R3
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R6
+R7
+Euart_tx_e
+w1684677029
+R0
+R1
+R2
+8E:/vhdl/SineWaveVHDL/src/UART_TX_E.vhd
+FE:/vhdl/SineWaveVHDL/src/UART_TX_E.vhd
+l0
+L4
+V:lOf32olXb_1VeS]UYoa>1
+!s100 3=1[]MMXS6TmR0Mo3@RdE2
+R3
+32
+R4
+!i10b 1
+R5
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/vhdl/SineWaveVHDL/src/UART_TX_E.vhd|
+!s107 E:/vhdl/SineWaveVHDL/src/UART_TX_E.vhd|
+!i113 1
+R6
+R7
+Auart_tx_a
+w1684677242
+R0
+R1
+R22
+8E:/vhdl/SineWaveVHDL/src/UART_TX_A.vhd
+FE:/vhdl/SineWaveVHDL/src/UART_TX_A.vhd
+l11
+L1
+V52NoZOO]9FOj2c;XL[eUA0
+!s100 9doJzP0<i]AodzYmNl=Me0
+R3
+32
+R4
+!i10b 1
+R5
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/vhdl/SineWaveVHDL/src/UART_TX_A.vhd|
+!s107 E:/vhdl/SineWaveVHDL/src/UART_TX_A.vhd|
+!i113 1
+R6
+R7
+Euart_tx_tb_e
+Z38 w1684677059
+R0
+R1
+R2
+Z39 8E:/vhdl/SineWaveVHDL/tb/UART_TX_TB.vhd
+Z40 FE:/vhdl/SineWaveVHDL/tb/UART_TX_TB.vhd
+l0
+L4
+VkYdNR16=OnG4ILoAEUhn13
+!s100 kVR9dJa9RKcnJUSl6FfRW0
+R3
+32
+R4
+!i10b 1
+R5
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/vhdl/SineWaveVHDL/tb/UART_TX_TB.vhd|
+Z42 !s107 E:/vhdl/SineWaveVHDL/tb/UART_TX_TB.vhd|
+!i113 1
+R6
+R7
+Auart_tx_tb_a
+R22
+R8
+R14
+R0
+R1
+DEx4 work 12 uart_tx_tb_e 0 22 kYdNR16=OnG4ILoAEUhn13
+l18
+L8
+V187z9TS^O4_LoY]d=R=So2
+!s100 89ImGK6g0DTJ6:Z]S[d]X1
+R3
+32
+R4
+!i10b 1
+R5
+R41
+R42
+!i113 1
+R6
+R7

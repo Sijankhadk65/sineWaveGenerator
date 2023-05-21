@@ -1,0 +1,12 @@
+architecture CLK_A of CLK_E is 
+	signal clk_s : std_logic := '0';  
+	constant clk_freq : interger := 12e6 ;  
+	constant clk_period : time := 1e6 ms ;  
+begin
+  
+  
+  clk_o <= clk_s;
+  
+  clk_s <= not clk_s after clk_period / 2; 
+  
+end architecture CLK_A;

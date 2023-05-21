@@ -1,0 +1,102 @@
+E:/vhdl/SineWaveVHDL/tb/UART_RX_TB.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/vhdl/SineWaveVHDL/tb/UART_RX_TB.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity UART_RX_TB_E
+-- Compiling architecture UART_RX_TB_A of UART_RX_TB_E
+-- Loading entity CLK_E
+-- Loading entity BRG_E
+-- Loading entity UART_RX_E
+
+} {} {}} E:/vhdl/SineWaveVHDL/tb/UART_TX_TB.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/vhdl/SineWaveVHDL/tb/UART_TX_TB.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity UART_TX_TB_E
+-- Compiling architecture UART_TX_TB_A of UART_TX_TB_E
+-- Loading entity CLK_E
+-- Loading entity BRG_E
+-- Loading entity UART_TX_E
+
+} {} {}} E:/vhdl/SineWaveVHDL/src/CLK_A.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/vhdl/SineWaveVHDL/src/CLK_A.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture CLK_A of CLK_E
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity CLK_E
+
+} {} {}} E:/vhdl/SineWaveVHDL/src/BRG_A.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/vhdl/SineWaveVHDL/src/BRG_A.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture BRG_A of BRG_E
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity BRG_E
+
+} {} {}} E:/vhdl/SineWaveVHDL/tb/CLK_TB.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/vhdl/SineWaveVHDL/tb/CLK_TB.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CLK_TB_E
+-- Compiling architecture CLKS_TB_A of CLK_TB_E
+-- Loading entity CLK_E
+
+} {} {}} E:/vhdl/SineWaveVHDL/src/UART_RX_A.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/vhdl/SineWaveVHDL/src/UART_RX_A.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture UART_RX_A of UART_RX_E
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity UART_RX_E
+
+} {} {}} E:/vhdl/SineWaveVHDL/src/CLK_E.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/vhdl/SineWaveVHDL/src/CLK_E.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CLK_E
+
+} {} {}} E:/vhdl/SineWaveVHDL/src/UART_TX_A.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/vhdl/SineWaveVHDL/src/UART_TX_A.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture UART_TX_A of UART_TX_E
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity UART_TX_E
+
+} {} {}} E:/vhdl/SineWaveVHDL/src/BRG_E.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/vhdl/SineWaveVHDL/src/BRG_E.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity BRG_E
+
+} {} {}} E:/vhdl/SineWaveVHDL/src/UART_RX_E.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/vhdl/SineWaveVHDL/src/UART_RX_E.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity UART_RX_E
+
+} {} {}} E:/vhdl/SineWaveVHDL/src/UART_TX_E.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/vhdl/SineWaveVHDL/src/UART_TX_E.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity UART_TX_E
+
+} {} {}} E:/vhdl/SineWaveVHDL/tb/BRG_TB.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/vhdl/SineWaveVHDL/tb/BRG_TB.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity BRG_TB_E
+-- Compiling architecture BRG_TB_A of BRG_TB_E
+-- Loading entity CLK_E
+-- Loading entity BRG_E
+
+} {} {}}
